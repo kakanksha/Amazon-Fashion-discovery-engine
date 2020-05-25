@@ -1,5 +1,5 @@
 # Recommend similar apparel products in e-commerce using product descriptions and Images
-Suggest the similar product to an user based on the project he/she is intrested in.
+Suggest the similar product to an user based on the product he/she is intrested in.
 <h2> Link to dataset </h2>
 https://drive.google.com/open?id=1Fif_JbnDnujlEPuPan1mt8HHuvjFevOJ
 <h2>Business Objectives</h2>
